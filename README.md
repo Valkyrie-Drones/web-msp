@@ -1,3 +1,5 @@
+Todo: remove the yucky nodejs stuff and add WebSerial instead
+
 README
 ======
 
